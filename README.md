@@ -22,5 +22,6 @@ Remaining I Have Answered the Questions in Word File (also commented steps in ju
 
 **Link For xls Formatted File : https://drive.google.com/file/d/1tki1IzkwE7I91DkpFAQZbxt9UvCGSRwf/view?usp=sharing**
 
+If unable to see word document you need to download it
 
 ![Screenshot (101)_LI](https://user-images.githubusercontent.com/75921135/117129789-c4ac1180-adbc-11eb-8d2b-1968b125c7b7.jpg)
