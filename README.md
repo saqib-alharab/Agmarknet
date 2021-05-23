@@ -1,4 +1,4 @@
-# Agmarknet Anslysis
+# Agmarknet Analysis
 
 The Code I have Submitted is best suited to Run in Jupyter Notebook Environment
 
